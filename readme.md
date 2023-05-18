@@ -2,7 +2,9 @@
 
 ## Description
 
-The mobile app is developed and designed using latest technologies of Swift and Storyboard. It allows user to view weather report for a city based on the location/coordinates of user's device using WeatherAPI and save those reports. Data does not persist after reloading/relaunching the app.
+- The mobile app is developed and designed using latest technologies of Swift, Storyboard, MapKit, and REST API. 
+- It allows user to view weather report for a city based on the location/coordinates of user's device using WeatherAPI and save those reports. 
+- Data does not persist after reloading/relaunching the app.
 
 ## How to Set Up the Project
 
