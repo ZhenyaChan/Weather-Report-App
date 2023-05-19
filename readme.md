@@ -12,6 +12,6 @@
 2. Add the folder to workplace area in XCode and open terminal OR navigate to the created folder using terminal
 3. Download the project .zip file OR Enter to the terminal:
    `git clone https://github.com/ZhenyaChan/Weather-Report-App.git`
-4. Launch **A2_Dung_108031204.xcodeproj** file
+4. Launch **A3_Dung(2).xcodeproj** file
 5. Start the project by pressing **Start** button OR **CMD + R**
 6. Change the coordinates using **Emulator -> Features -> Location -> Custom Location**
